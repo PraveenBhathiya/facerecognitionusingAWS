@@ -1,5 +1,7 @@
 ## Facial Recognition System – Step-by-Step Guide
 
+![arch diagram](facereco.png)
+
 ### Step 1: Setting Up Infrastructure
 🔹 1. Launch EC2 Instance
 * Create an EC2 instance to act as your central compute environment.
